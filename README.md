@@ -1,13 +1,20 @@
-</center> # 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA </center>
+<center># 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA</center>
 
 <img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "600" height= "700">
 
-</center> ### Curiosidades </center>
+<center>### Curiosidades</center>
+
 | ***Simplicidade Enganosa:*** |***Formato Curioso:***|
 |------------------------------|----------------------|
 |*A receita é tão simples que leva apenas alguns ingredientes, mas tem um sabor tão rico que pode parecer que há mais componentes nela.* |*Criado ao trançar a massa antes de fritar, lembra uma peça de roupa íntima masculina que foi torcida e virada.*|
 
 ---
+
+<sup>sobrescrito</sup>
+<sub>subscrito</sub>
+~~texto riscado~~
+Texto <mark>marcado</mark>
+<center>Item centralizado</center>
 
 ## INGREDIENTES 
 **50 porções**
@@ -30,6 +37,6 @@
 *Obs: Para que as mentiras fiquem crocantes, abra a massa com um rolo, quanto mais fina e feitas em formatos menores mais crocante ela fica.*
 
 Segue o vídeo para acompanhar:
-[![QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio]](https://www.youtube.com/watch?v=video-id)
+[![QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio]](https://www.youtube.com/watch?v=video-id, "QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio")
 
 
