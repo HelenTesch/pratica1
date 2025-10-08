@@ -1,8 +1,8 @@
-<center># 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA</center>
+# 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA
 
 <img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "600" height= "700">
 
-<center>### Curiosidades</center>
+### Curiosidades
 
 | ***Simplicidade Enganosa:*** |***Formato Curioso:***|
 |------------------------------|----------------------|
@@ -28,7 +28,7 @@
 
 2. Molde os biscoitos e frite em óleo quente. Passe no açúcar com calena para finalizar.
 
-*<mark>Obs: Para que as mentiras fiquem crocantes, abra a massa com um rolo, quanto mais fina e feitas em formatos menores mais crocante ela fica.*
+<mark>Obs: Para que as mentiras fiquem crocantes, abra a massa com um rolo, quanto mais fina e feitas em formatos menores mais crocante ela fica.
 
 ---
 
