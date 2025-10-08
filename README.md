@@ -32,7 +32,11 @@
 
 ---
 
-Não se prenda a uma só forma de fazer, segue um vídeo para acompanhar com ingrediente e modo de preparo diferente, o que vale é tentar 😘:
+Não se prenda a uma só "receita", segue um vídeo para acompanhar com ingredientes e modo de preparo diferente, mas com o mesmo resultado:
 [![QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio]](https://www.youtube.com/watch?v=video-id, "QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio")
 
+
+ > *O que vale é tentar* 😘 (TESCH, 2025)
+
+ **Obrigado e até mais!!** 😊
 
