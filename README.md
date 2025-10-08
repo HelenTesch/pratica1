@@ -1,6 +1,6 @@
 # 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA
 
-<img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "200" height= "100">
+<img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "600" height= "500">
 
 ### Curiosidades
 > ***Simplicidade Enganosa:*** *A receita é tão simples que leva apenas alguns ingredientes, mas tem um sabor tão rico que pode parecer que há mais componentes nela.* 
