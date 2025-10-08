@@ -32,7 +32,7 @@
 
 ---
 
-Segue o vídeo para acompanhar:
+Não se prenda a uma só forma de fazer, segue um vídeo para acompanhar com ingrediente e modo de preparo diferente, o que vale é tentar 😘:
 [![QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio]](https://www.youtube.com/watch?v=video-id, "QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio")
 
 
