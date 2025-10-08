@@ -1,11 +1,13 @@
-# 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA
+</center> # 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA </center>
 
 <img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "600" height= "700">
 
-### Curiosidades
+</center> ### Curiosidades </center>
 | ***Simplicidade Enganosa:*** |***Formato Curioso:***|
 |------------------------------|----------------------|
 |*A receita é tão simples que leva apenas alguns ingredientes, mas tem um sabor tão rico que pode parecer que há mais componentes nela.* |*Criado ao trançar a massa antes de fritar, lembra uma peça de roupa íntima masculina que foi torcida e virada.*|
+
+---
 
 ## INGREDIENTES 
 **50 porções**
