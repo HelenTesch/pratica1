@@ -1,6 +1,6 @@
 # 👩🏽‍🍳 RECEITA DE MENTIRA DOCE OU CUECA VIRADA
 
-<img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "100" height= "100">
+<img src="Mentiraa.jpg" alt="A mentira da minha avó" widght= "200" height= "100">
 
 ### Curiosidades
 > ***Simplicidade Enganosa:*** *A receita é tão simples que leva apenas alguns ingredientes, mas tem um sabor tão rico que pode parecer que há mais componentes nela.* 
@@ -28,5 +28,4 @@
 Segue o vídeo para acompanhar:
 [![QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio]](https://www.youtube.com/watch?v=video-id)
 
-<iframe width="700" height="394" src="https://www.youtube.com/embed/5YVWrttbcdA" title="QUANDO FAÇO ISSO NÃO SOBRA NADA! O SABOR É SURPREENDENTE! FÁCIL - RÁPIDO -ECONÔMICO!-Isamara Amâncio" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
